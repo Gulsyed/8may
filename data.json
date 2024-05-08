@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Admin",
+        "title": "MernStackDeveloper",
+        "username": "Admin",
+        "password": "Admin",
+        "role": "MernStackDeveloper",
+        "companyName": "TCS",
+        "address": "13 12",
+        "phoneNumber": "07049807824",
+        "memorableWord": "Admin"
+    }
+]
