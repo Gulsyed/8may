@@ -71,7 +71,14 @@ export default function SignUp() {
               borderRadius: "5px",
             }}
           >
-            <Avatar sx={{ m: 1, width: "24%", height: "24%",bgcolor: "primary.main"  }}>
+            <Avatar
+              sx={{
+                m: 1,
+                width: "24%",
+                height: "24%",
+                bgcolor: "primary.main",
+              }}
+            >
               <img
                 src={logo}
                 alt="Syndx Logo"
@@ -83,7 +90,7 @@ export default function SignUp() {
               variant="h5"
               sx={{ marginBottom: "20px" }}
             >
-              Sign up
+              Signnn
             </Typography>
             <form
               noValidate
@@ -215,7 +222,6 @@ export default function SignUp() {
                     })}
                   />
                 </Grid>
-               
               </Grid>
               <Button
                 type="submit"
@@ -245,13 +251,6 @@ export default function SignUp() {
     </>
   );
 }
-
-
-
-
-
-
-
 
 // import Avatar from "@mui/material/Avatar";
 // import Button from "@mui/material/Button";
