@@ -90,7 +90,7 @@ export default function SignUp() {
               variant="h5"
               sx={{ marginBottom: "20px" }}
             >
-              Signnn
+              Sign up
             </Typography>
             <form
               noValidate
